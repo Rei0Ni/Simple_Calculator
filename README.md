@@ -17,4 +17,4 @@ And an Inistallation file:
 
 >Checks And Downloads The Runtime If Needed.
 
-+ [Setup.EXE](https://raw.githubusercontent.com/Rei0Ni/Calculator/master/Setup/Setup.exe?token=GHSAT0AAAAAAB2NOIBVQGEFGQN3W6DOOXVSY3YGMTA "Setup.EXE")
++ [Setup.EXE](https://raw.githubusercontent.com/Rei0Ni/Simple_Calculator/master/Setup/Setup.exe?token=GHSAT0AAAAAAB4LMTEQFMZDRSCWLAMRNXZYY47NLNA "Setup.EXE")
