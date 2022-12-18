@@ -9,7 +9,7 @@
 And if You Don't Wan't to Download the Solution Files
 Here is a Link For a Portable:
 
->May Need DotNet Runtime to Work!
+>May Need DotNet Runtime 5.0 to Work!
 
 + [Mediafire!](https://www.mediafire.com/file/csb0d2twuvhse4m/Simple_Calculator_20210210.zip/file "Rei0Ni_Calcularoe.iso")
 
